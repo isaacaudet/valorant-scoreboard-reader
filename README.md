@@ -12,8 +12,6 @@ Valorant Scoreboard Reader is an innovative OCR (Optical Character Recognition) 
 2. Install the required dependencies using pip install -r requirements.txt.
 3. Set up a .env file in the project directory with your OpenAI API key:
 ```
-makefile
-Copy code
 OPENAI_API_KEY=your_api_key_here
 ```
 4. Run the script using python scoreboard_reader.py.
