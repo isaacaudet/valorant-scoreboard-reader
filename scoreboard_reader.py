@@ -79,7 +79,7 @@ def process_scoreboard(screenshot):
     return player_data
 
 def generate_greeting(player_names):
-    start_chat_log = 'Greet all these players by name, include a valorant metaphor. Keep it short.'
+    start_chat_log = 'Greet all these players by name, in a 500 character paragraph. I am kAreN. Add a good valorant joke. be cheaky. The player names are: '
     for name in player_names:
         start_chat_log += f'\n- {name}'
 
