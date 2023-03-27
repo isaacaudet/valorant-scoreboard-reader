@@ -15,5 +15,4 @@ Valorant Scoreboard Reader is an innovative OCR (Optical Character Recognition) 
 OPENAI_API_KEY=your_api_key_here
 ```
 4. Run the script using python scoreboard_reader.py.
-
-Enjoy personalized greetings and jokes for you and your fellow players! 😄🎉
+5. Enjoy personalized greetings and jokes for you and your fellow players! 😄🎉
