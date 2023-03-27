@@ -19,8 +19,9 @@ cd valorant-scoreboard-reader
 2. It is recommended to create a virtual environment to keep the project's dependencies isolated:
 ```
 python -m venv venv
-Activate the virtual environment:
 ```
+3. Activate the virtual environment:
+
 * **Windows:**
 ```
 venv\Scripts\activate
@@ -30,7 +31,7 @@ venv\Scripts\activate
 ```
 source venv/bin/activate
 ```
-3. Install the required dependencies using pip:
+4. Install the required dependencies using pip:
 ```
 pip install -r requirements.txt
 ```
