@@ -8,7 +8,7 @@ Valorant Scoreboard Reader is an innovative OCR (Optical Character Recognition) 
 * **Regular Expressions:** Extract and process player names and statistics with Python regex 🧩
 * **Environment Management:** Manage API keys and configurations using python-dotenv 🗝️🔐
 
-# How to Install Dependencies 📦
+## How to Install Dependencies 📦
 Before running the project, make sure you have Python 3.6 or later installed on your system. Then, follow these steps to install the required libraries:
 
 1. Clone the repository and navigate to the project folder:
